@@ -12,7 +12,7 @@ edit the annotation text
 
 delete the annotation
 
-saves data after reload
+auto save data after reload
 
 **HOW TO USE**
 
